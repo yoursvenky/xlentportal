@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # e-Learning Management System for XLent Technologies pvt ltd
 
 A learning management and online assessment system for academic education.
@@ -81,7 +80,6 @@ python manage.py runserver
 ```
 =======
 # xlentportal
->>>>>>> 86dc5c2c4b95d5fb0e7eb823b982c2a058b36933
-=======
-# xlentportal
->>>>>>> 86dc5c2c4b95d5fb0e7eb823b982c2a058b36933
+
+
+                         ***This is our company official e-learning platform***
